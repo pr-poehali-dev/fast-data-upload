@@ -6,7 +6,7 @@ export function Footer() {
           {/* Brand */}
           <div className="md:col-span-2">
             <a href="/" className="inline-block mb-6">
-              <span className="text-xl font-bold tracking-tight">Team 69</span>
+              <span className="text-red-500 text-3xl font-bold tracking-tight">Team 69</span>
             </a>
             <p className="text-muted-foreground leading-relaxed max-w-sm">
               Медиа-хранилище для видео, фотографий и ссылок. Всё важное — в одном месте, всегда под рукой.
